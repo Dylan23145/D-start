@@ -12,10 +12,11 @@ pkg install nmap
 
 pkg install curl
 
-pkg install lolcat
+pkg install toilet
 
 pkg install axel
 
+git clone https://github.com/archival-0x/doxbox
 
 git clone https://github.com/DeepSociety/wiki-termux
 
