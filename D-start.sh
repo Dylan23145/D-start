@@ -142,7 +142,9 @@ for c in "${colores[@]}";do
     printf "\r $c ECHO POR: Dylan xd  $DEFAULT "
     sleep 1
 done
-
+echo " " 
+echo " toca ENTER para continuar" 
+read p
 
 clear
 
