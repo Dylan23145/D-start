@@ -141,3 +141,72 @@ for c in "${colores[@]}";do
     printf "\r $c ECHO POR: Dylan xd  $DEFAULT "
     sleep 1
 done
+
+
+clear
+
+opcion=0
+
+while [ $opcion -ne 4 ]; do
+
+ echo "escoje una pregunta"
+
+       echo 1. "Comandos"
+    echo 2. "Herramientas"
+    echo 3. "otras preguntas"
+       echo 4. "Salir"
+
+read opcion
+
+       case $opcion in
+
+        1) echo "
+
+Si eres nuevo y no sabes como ejecutar una herramienta esto es para ti:
+
+Sh: muchas herramientas tienen un .sh al final lo cual para ejecutarlos se puede de estas maneras en estos ejemplos:
+
+1 ./D-start.sh
+2. sh D-start.sh
+3. bash
+
+
+.py: esto es para python y las herramientas en python se ejecutan asi:
+
+
+1. python D-start.py
+
+2. python2 D-start.py
+
+
+Estas son las más comunes si me pongo a ponerlas todas nunca acabo xd"
+
+
+echo "pulsa enter para continuar";;
+
+
+               2) echo "
+
+
+ Las herramientas en termux nos sirve para muchos motivos ya sean; phishing, ddos, explotación en páginas web etc..
+
+Usalas con cuidado ;)" ;;
+
+                                                                                                                                      3) echo " la verdad aqui no se que poner jsjs lo hubiese quitado pero xd";;
+                                                                                                                      
+                    4) echo "
+
+Gracias por leer xd compartelo te lo
+ agredecira mucho no soy un pro hacker ni nada de eso así que lo que esta aquí es lo que se jsjsjj y muchas gracias si
+ lees todo eres un maquina";;                                                                                         
+               *) echo " tonto eso no sirve de nada jaja"                                                             
+                       opcion=0;;
+
+
+     esac
+     echo "pulsa cualquier wea para continuar"
+      read p
+      clear
+
+
+done
