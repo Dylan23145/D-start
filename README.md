@@ -15,3 +15,16 @@ UN COMIENZO :D
 SI TIENEN ALGUNA QUEJA ESCRÍBEME A MI WHATSAPP +573012080503
 
 Y ESPERO QUE LES GUSTE
+
+
+Instalación:
+
+
+git clone https://github.com/Dylan23145/D-start
+
+cd D-start
+
+bash D-start.sh
+
+
+Simplemente sencillo 
