@@ -1,5 +1,6 @@
 pkg install python
 
+pkg install nmp 
 
 pkg inatall python2
 
