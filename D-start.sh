@@ -265,7 +265,7 @@ echo "pulsa enter para continuar";;
 
 Usalas con cuidado ;)" ;;
 
-                                                                                                                                      3) echo " la verdad aqui no se que poner jsjs lo hubiese quitado pero xd";;
+                  3)      bash tor;;                                                                   3) echo " la verdad aqui no se que poner jsjs lo hubiese quitado pero xd";;
 
                     4) echo "
 
