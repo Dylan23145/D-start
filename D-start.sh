@@ -134,7 +134,7 @@ done
 
 clear
 
-termux-open https://chat.whatsapp.com/Fnn2Bqt67TpAGvMrxTOjaz
+termux-open https://chat.whatsapp.com/Ex7xMoKvMIJJEwXkmYby8K
 
 
 
